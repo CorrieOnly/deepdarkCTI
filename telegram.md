@@ -113,4 +113,5 @@
 |https://t.me/zeroc0d3r_v2| Zeroc0d3r Threat Actor Channel
 |https://t.me/joinchat/j686dJsfnF0wYmM0|
 |https://telegram.me/Cracking_Pro | Configs, Accounts |
+|https://t.me/crackinghacks | Hacking, Tools, Combos  |
 
